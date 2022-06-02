@@ -6,7 +6,7 @@ It counts occurrences of a given value for every json in user defined group.
 These groups (of dependent json files) are defined at the bottom of this script in the main() function.
 
 
-# description
+# description - please read in raw format
 
 Local variable "jsons_groups" is used to define groups of jsons files under test.
 It is a dictionary with jsons group name (as a key) and list of its files (as its value).
